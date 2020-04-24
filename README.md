@@ -33,7 +33,7 @@ Android application for sharing responsibilities within social groups.
 
 * Tasks
 
-![Application screen](https://raw.githubusercontent.com/zyngjaku/share-it/master/app/src/main/res/drawable/ShareIt_6.png)
+![Application screen](https://raw.githubusercontent.com/zyngjaku/share-it/master/app/src/main/res/drawable/ShareIt_7.png)
 
 
 ## Authors
