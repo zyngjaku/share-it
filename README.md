@@ -37,10 +37,10 @@ Android application for sharing responsibilities within social groups.
 
 
 ## Authors
-@zyngjaku (me) 
-@annagi98
-@klaudiaa111
-@wrobdomi
+* @zyngjaku (me) 
+* @annagi98
+* @klaudiaa111
+* @wrobdomi
 
 We are students at AGH University of Science and Technology in Cracow.
 
